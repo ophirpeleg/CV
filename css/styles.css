@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #E1D7C6;
+}
+
+h1 {
+    color: #EAE0DA;
+    font-size: 5.62rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+}
+
+h2 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+    margin: 0;
+    position: relative;
+    padding-top: 170px; 
+    background-color: #A0C3D2;
+}
+
+.middle-container{
+    margin: 20px;
+}
+
+.bottom-container{
+    margin: 20px auto 0 auto;
+    background-color: #A0C3D2;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 105px;
+    right: 20%;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 6px;
+    width: 40px;
+}
+
+.data-skill {
+    border-radius: 100%;
+    width: 15%;
+    height: 15%;
+    border-top: 200px;
+}
+
+.skill-row {
+    text-align: center;
+    margin: 20px 25%;
+    line-height: 1.5;
+
+}
+
+.profile {
+    margin: 20px, 50%, 20px, 50%;
+}
+
+.automation {
+    border-radius: 100%;
+    width: 15%;
+    height: 15%;
+}
+
+.profile-picture {
+    border-radius: 100%;
+    width: 15%;
+    height: 15%;
+}
+
+.hello {
+    margin: 10px 20% 33px 20%;
+}
+
+.end-page {
+    margin: 0;
+}
